@@ -1,0 +1,12 @@
+Package: xtsPerAnl
+Title: Eliminating dependence of PerformanceAnalytics on base graphics by using
+    plot.xts
+Version: 0.0.0.9000
+Authors@R: person("Shubham", "Khanve", email = "shubham.khanve@yahoo.com", role = c("aut", "cre"))
+Description: This package consist of four new replaced function of
+    PerformanceAnalytics based on plot.xts rather than base graphics
+Depends:
+    R (>= 3.2.3)
+License: Private
+LazyData: true
+RoxygenNote: 5.0.1.9000
