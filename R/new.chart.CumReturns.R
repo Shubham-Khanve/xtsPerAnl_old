@@ -20,8 +20,7 @@
 #' @examples
 #' library(xtsPerAnl)
 #' library(PerformanceAnalytics)
-#' library(xtsExtra)  #library(xts)
-#' library(RColorBrewer)
+#' library(xts)  #library(xtsExtra)
 #' data(managers)
 #' new.chart.CumReturns(managers)
 #' @export
