@@ -16,7 +16,7 @@
 #' @keywords new.chart.RollingPerformance
 #' @examples 
 #' library(xtsPerAnl)
-#' library(xtsExtra)  #library(xts)
+#' library(xts)  #library(xtsExtra)
 #' library(PerformanceAnalytics)
 #' data(managers)
 #' new.chart.RollingPerformance(managers)
